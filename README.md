@@ -1,11 +1,10 @@
-# test
+test
 这个有用吗
 学习python时的一些代码
 #!/usr/bin/env python 
 # -*- coding:utf-8 -*-
 
 """ a test module """
-__author__ = 'CC'
 
 import sys
 import math
